@@ -16,18 +16,18 @@ npm run build
 ```
 
 ---
-資料結構 <br>
-|---dist              // 打包後的項目 <br>
-|---public            // 靜態文件資料夾 <br>
-|---src               // 來源資料夾  <br>
-|---|---assets        // 會被編譯的文件目錄 <br>
-|---|---components    // 有用到的組件 <br>
-|---|---layout        // 公用套版 <br>
-|---App.vue           // 初始 Vue <br>
-|---main.js           // 檔案進入點 <br>
-|---vue.config.js     // Vue 組態設定檔案 <br>
-|---.eslintrc.js      // ESLint 設定檔 <br>
-|---.babel.config.js  // babel 設定檔 <br>
+資料結構 <br/>
+|---dist              // 打包後的項目<br/>
+|---public            // 靜態文件資料夾<br/>
+|---src               // 來源資料夾 <br/>
+|---|---assets        // 會被編譯的文件目錄<br/>
+|---|---components    // 有用到的組件<br/>
+|---|---layout        // 公用套版<br/>
+|---App.vue           // 初始 Vue<br/>
+|---main.js           // 檔案進入點<br/>
+|---vue.config.js     // Vue 組態設定檔案<br/>
+|---.eslintrc.js      // ESLint 設定檔<br/>
+|---.babel.config.js  // babel 設定檔<br/>
 
 ---
 用到的套件說明: 
